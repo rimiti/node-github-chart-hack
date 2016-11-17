@@ -1,0 +1,8 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "author": "Dimitri DO BAIRRO",
+  "dependencies": {
+    "moment": "^2.16.0"
+  }
+}
