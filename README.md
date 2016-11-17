@@ -1,5 +1,5 @@
 # GithubChartHack
-GithubChartHack is a quick hack for simulate your github chart activity. It simulate 0-10 commit(s) every day and uses the `GIT_AUTHOR_DATE` and `GIT_COMMITTER_DATE` environment variables to make commits in the past. 
+GithubChartHack is a quick hack for customize your github chart activity. It simulate 0-10 commit(s) every day and uses the `GIT_AUTHOR_DATE` and `GIT_COMMITTER_DATE` environment variables to make commits in the past. 
 
 ### How to Use
 Place `index.js` in your Git repository. Make sure your [remote repository URL is set](https://help.github.com/articles/adding-a-remote/), and that you have a [public SSH key set up](https://help.github.com/articles/generating-ssh-keys/). Then run the script with node, with an integer specifying `n` number of days before today to generate commits for. E.g.,
