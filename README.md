@@ -1,4 +1,4 @@
-# GithubChartHack
+# node-github-chart-hack
 GithubChartHack is a quick hack for customize your github chart activity. It simulate 0-10 commit(s) every day and uses the `GIT_AUTHOR_DATE` and `GIT_COMMITTER_DATE` environment variables to make commits in the past. 
 
 ### How to Use
