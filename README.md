@@ -1,4 +1,7 @@
 # node-github-chart-hack
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/rimiti/node-github-chart-hack.svg)](https://greenkeeper.io/)
+
 GithubChartHack is a quick hack for customize your github chart activity. It simulate 0-10 commit(s) every day and uses the `GIT_AUTHOR_DATE` and `GIT_COMMITTER_DATE` environment variables to make commits in the past. 
 
 ### How to Use
